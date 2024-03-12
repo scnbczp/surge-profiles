@@ -1,0 +1,8 @@
+
+#!name=TAG Patch iOS
+#!desc=TAG Patch module for iOS by Chen
+#!system=ios
+
+[General]
+allow-wifi-access = true
+allow-hotspot-access = true
